@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PoS App/PoS App.iml" filepath="$PROJECT_DIR$/PoS App/PoS App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PoS-Android-Based-App.iml" filepath="$PROJECT_DIR$/.idea/PoS-Android-Based-App.iml" />
+    </modules>
+  </component>
+</project>
